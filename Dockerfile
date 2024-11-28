@@ -1,4 +1,4 @@
-FROM eclipse-temurin:17-jdk-jammy
+FROM bellsoft/liberica-openjre-alpine-musl:17
  
 WORKDIR /app
 
